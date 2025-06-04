@@ -1,10 +1,12 @@
-![](https://thumbs.dreamstime.com/b/ocean-beach-sunrise-colorful-75364306.jpg)
+<center> <img src="Background.jpg" /> </center>
 
 # 💫 About Me:
-I'm always learning about computers and how they work<br>Currently working on Artificial Intelligence and Machine Learning applications.
+I'm always learning about computers and how they work<br>Currently working on Artificial Intelligence and Machine Learning applications.<br>Fun Fact: I spend my spare time reading about cars, planes and ships.
 
 
 ## 🌐 Socials:
+<img align="right" src="https://komarev.com/ghpvc/?username=AryanKo&label=Profile%20views&color=F97A00&style=flat" alt="AryanKo" />
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_02028) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankotwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotwal.aryan01@gmail.com) 
 
 # 💻 Tech Stack:
@@ -18,6 +20,4 @@ I'm always learning about computers and how they work<br>Currently working on Ar
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AryanKo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
