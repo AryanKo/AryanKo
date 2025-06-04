@@ -1,3 +1,5 @@
+![](https://thumbs.dreamstime.com/b/ocean-beach-sunrise-colorful-75364306.jpg)
+
 # 💫 About Me:
 I'm always learning about computers and how they work<br>Currently working on Artificial Intelligence and Machine Learning applications.
 
