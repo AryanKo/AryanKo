@@ -1,7 +1,7 @@
 <center> <img src="Background.jpg" /> </center>
 
 # 💫 About Me:
-Always innovating and building something impactful<br>Currently working on Artificial Intelligence and Machine Learning applications.<br>Fun Fact: I spend my spare time reading about cars, military planes and warships.
+Always innovating and building something impactful<br>Currently working on Artificial Intelligence and Machine Learning applications.<br>Fun Fact: I spend my spare time reading about cars, geopolitics and warships or playing chess.
 
 ## 🌐 Socials:
 <img align="right" src="https://komarev.com/ghpvc/?username=AryanKo&label=Profile%20views&color=F97A00&style=flat" alt="AryanKo" />
@@ -22,11 +22,10 @@ Always innovating and building something impactful<br>Currently working on Artif
 
 
 
-<!-- GITHUB STATS FOR LATER # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryanKo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=AryanKo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=AryanKo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
 
 ### ✍️ Something to think about
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
