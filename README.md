@@ -1,52 +1,92 @@
-<center> <img src="Background.jpg" /> </center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Kotwal&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <br/>
 
-# 🚀 About Me:
-Building high-impact applications with a focus on **Artificial Intelligence** and **Mobile Ecosystems**.
+  ### ⚡ Building Full-Stack Systems & Mobile Frontiers
 
-* 🕰️ **Currently:** Engineering a P2P encrypted messaging system using BLE and Kotlin.
-* 🧠 **Interests:** LLM Orchestration, Computer Vision, and Backend Architecture.
-* ♟️ **Fun Fact:** When not coding, I’m analyzing geopolitics, warships, or playing chess.
+  [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryankotwal)
+  [![](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=globe)](#YOUR_PORTFOLIO_LINK_HERE)
+  [![](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kotwal.aryan01@gmail.com)
 
-## 🌐 Socials:
-<img align="right" src="https://komarev.com/ghpvc/?username=AryanKo&label=Profile%20views&color=F97A00&style=flat" alt="AryanKo" />
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_02028) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryankotwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotwal.aryan01@gmail.com) 
-
-## 💻 Tech Stack:
-
-### 💻 Core Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 📱 Mobile & AI
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=AryanKo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
-![](https://nirzak-streak-stats.vercel.app/?user=AryanKo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🛠 Currently Cooking
+> [!IMPORTANT]
+> **Engineering Dagger**, a P2P encrypted messaging system using **BLE** and **Kotlin**. 
+> Solving decentralization challenges one packet at a time.
 
-### ✍️ Something to think about
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake.svg" />
-</picture>
+## 🧬 Digital DNA
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Specialized In</h4>
+      <ul>
+        <li><b>Mobile:</b> Kotlin (Native), Flutter/Dart</li>
+        <li><b>Backend & DBs:</b> Node.js, Flask, MySQL, Relational Logic</li>
+        <li><b>Systems:</b> C/C++, Shipping software over hardware</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Intellectual Pursuits</h4>
+      <ul>
+        <li><b>Strategy:</b> Analyzing Geopolitics & Naval Tech</li>
+        <li><b>Logic:</b> Chess enthusiast (Blitz & Bullet)</li>
+        <li><b>Architecture:</b> Building high-impact, scalable apps</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Technical Arsenal
+
+<p align="left">
+  <code title="Core Languages"><b>Languages:</b></code><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart,kotlin" />
+</p>
+
+<p align="left">
+  <code title="Web & Backend"><b>Web & Backend:</b></code><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,flask,mysql" />
+</p>
+
+<p align="left">
+  <code title="Mobile & AI"><b>Mobile & Tools:</b></code><br>
+  <img src="https://skillicons.dev/icons?i=flutter,tensorflow,git,vscode,bash" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanKo&show_icons=true&theme=transparent&hide_border=true&title_color=F97A00&icon_color=F97A00&text_color=afafaf" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKo&layout=compact&theme=transparent&hide_border=true&title_color=F97A00&text_color=afafaf" height="170px" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AryanKo&theme=dark&hide_border=true&stroke=F97A00&background=00000000" width="80%" />
+</div>
+
+---
+
+## 🕹️ Activity Feed
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AryanKo/AryanKo/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%" />
+  <br/>
+</div>
