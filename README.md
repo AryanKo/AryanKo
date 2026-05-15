@@ -35,7 +35,7 @@
       <h4>🧠 Intellectual Pursuits</h4>
       <ul>
         <li><b>Strategy:</b> Analyzing Geopolitics & Naval Tech</li>
-        <li><b>Logic:</b> Chess enthusiast (Blitz & Bullet)</li>
+        <li><b>Logic:</b> Chess enthusiast (FIDE NA)</li>
         <li><b>Architecture:</b> Building high-impact, scalable apps</li>
       </ul>
     </td>
@@ -65,12 +65,12 @@
 
 ## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanKo&show_icons=true&theme=transparent&hide_border=true&title_color=F97A00&icon_color=F97A00&text_color=afafaf" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKo&layout=compact&theme=transparent&hide_border=true&title_color=F97A00&text_color=afafaf" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanKo&show_icons=true&theme=transparent&hide_border=true&title_color=F97A00&icon_color=F97A00&text_color=afafaf&v=1" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKo&layout=compact&theme=transparent&hide_border=true&title_color=F97A00&text_color=afafaf&v=1" height="170px" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AryanKo&theme=dark&hide_border=true&stroke=F97A00&background=00000000" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKo&theme=dark&hide_border=true&stroke=F97A00&background=00000000&v=1" width="80%" />
 </div>
 
 ---
