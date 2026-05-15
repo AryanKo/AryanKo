@@ -6,7 +6,7 @@
   ### ⚡ Building Full-Stack Systems & Mobile Frontiers
 
   [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryankotwal)
-  [![](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=globe)](#YOUR_PORTFOLIO_LINK_HERE)
+  [![](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=globe)](https://aryankotwal.vercel.app/)
   [![](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kotwal.aryan01@gmail.com)
 
 </div>
@@ -15,8 +15,8 @@
 
 ## 🛠 Currently Cooking
 > [!IMPORTANT]
-> **Engineering Dagger**, a P2P encrypted messaging system using **BLE** and **Kotlin**. 
-> Solving decentralization challenges one packet at a time.
+> **Engineering WTalk**, a P2P encrypted messaging system using **BLE** and **Kotlin**. 
+> Building multiple AI Stealth Projects.
 
 ---
 
