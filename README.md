@@ -47,18 +47,34 @@
 ## 💻 Technical Arsenal
 
 <p align="left">
-  <code title="Core Languages"><b>Languages:</b></code><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart,kotlin" />
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="48" />
 </p>
 
 <p align="left">
-  <code title="Web & Backend"><b>Web & Backend:</b></code><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,flask,mysql" />
+  <b>Web & Backend:</b><br>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="48" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="48" />
 </p>
 
 <p align="left">
-  <code title="Mobile & AI"><b>Mobile & Tools:</b></code><br>
-  <img src="https://skillicons.dev/icons?i=flutter,tensorflow,git,vscode,bash" />
+  <b>Mobile & Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" height="48" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" height="48" />
 </p>
 
 ---
